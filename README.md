@@ -28,6 +28,13 @@ Analysis of All India Swiggy Orders Data revealed key insights across various di
 
 ## Project Insight :
 
+1.	The Avg. Rating for this Entire swiggy dealership was (3.66%) in overall India.
+2.	Only the Cities which has more IT industries are getting huge orders. 
+3.	The outer areas from the city is not performing well when compare to the city limits (>68%).
+4.	The delivery time is not proper in road transportation. Due to heavy traffic.
+5.	The chines restaurant plays a vital role in the restaurants, over (68%), where them.
+6.	The continental dish are increasing their order (38%). 
+
 
 
 
