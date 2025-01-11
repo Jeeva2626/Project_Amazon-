@@ -1,5 +1,7 @@
 ## Swiggy Orders Analysis in All Over INDIA (Interactive dashboard creation Microsoft Excel and Power BI.)
 
+From spicy curries to sizzling pizzas, discover the secrets behind India's food cravings. This analysis of Swiggy orders unveils key trends that can help businesses thrive and customers find their next culinary adventure.
+
 ## Project Overview :
 
 Analysis of All India Swiggy Orders Data revealed key insights across various dimensions, including restaurant performance (reviews, ratings, sales), food preferences (types, popularity), and geographic variations (city-level performance). 
